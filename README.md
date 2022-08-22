@@ -32,13 +32,14 @@
 
 
 ## Autores
-- **Cesar Henrique Soares**
+ - **Bruno Henrique Lopes Golçaves**
+ - **Cesar Henrique Soares**
  - **Daniel de Oliveira Fonseca**
+ - **João Gabriel Alves Peixoto**
  - **Maria Eduarda Silva Barbosa**
- - **João Gabriel Alves**
  - **Samuel Lopes Nazário**
  - **Wallace Rodrigues de Oliveira**
- - **Bruno Henrique Lopes Golçaves**
+
 
 
 
