@@ -2,7 +2,7 @@
 
 ## Sobre o Projeto
 
-
+Nosso projeto tem como principal objetivo a otimização de tempo no atendimento de chamados dos clientes, buscando oferecer um meio seguro e controlado para armazenamento de informações, atuação dos diversos setores que possam resolver um problema, emissão, envio e monitoramento de protocolos, oferecendo assim um maior conforto ao cliente.
 
 
 ## Índice/Sumário
@@ -32,14 +32,13 @@
 
 
 ## Autores
- - **Bruno Henrique Lopes Golçaves**
- - **Cesar Henrique Soares**
+- **Cesar Henrique Soares**
  - **Daniel de Oliveira Fonseca**
- - **João Gabriel Alves Peixoto**
  - **Maria Eduarda Silva Barbosa**
+ - **João Gabriel Alves**
  - **Samuel Lopes Nazário**
  - **Wallace Rodrigues de Oliveira**
-
+ - **Bruno Henrique Lopes Golçaves**
 
 
 
