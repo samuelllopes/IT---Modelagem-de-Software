@@ -2,7 +2,7 @@
 
 ## Sobre o Projeto
 
-Nosso projeto tem como principal objetivo a otimização de tempo no atendimento de chamados dos clientes, buscando oferecer um meio seguro e controlado para armazenamento de informações, atuação dos diversos setores que possam resolver um problema, emissão, envio e monitoramento de protocolos, oferecendo assim um maior conforto ao cliente.
+Nosso Projeto tem como principal ojetivo o desenvolvimento de um software de IT para a empresa do nosso cliente, buscando a otimização de tempo no atendimento de chamados dos clientes sobre proplemas tecnicos, oferecendo um meio seguro e controlado para armazenamento de informações e protocolos de chamado e atuando nos setores que possam resolver um problema, emissão, envio e monitoramento de protocolos, oferecendo assim um maior conforto ao cliente.
 
 
 ## Índice/Sumário
@@ -32,6 +32,7 @@ Nosso projeto tem como principal objetivo a otimização de tempo no atendimento
 
 
 ## Autores
+
 - **Cesar Henrique Soares**
  - **Daniel de Oliveira Fonseca**
  - **Maria Eduarda Silva Barbosa**
@@ -54,4 +55,5 @@ Este projeto está licenciado sob a Licença MIT, consulte o arquivo [LICENSE.md
 
 
 ## Agradecimentos  
+
 Agradecemos a todos os integrantes do grupo que se uniram para juntar esforços para a execução deste trabalho, agradecemos também a professora Edyene por todo o suporte dado durante o período do projeto, gratidão as pessoas que com maior experiência no mercado puderam e se disponibilizaram para ajudar o grupo nesta importante caminhada.
