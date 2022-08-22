@@ -8,7 +8,6 @@
 ## Índice/Sumário
 * [Sobre o Projeto](#Sobre-o-Projeto) 
 * [Índice/Sumário](#Índice-/-Sumário)
-* [Etapas concluídas](#Etapas-concluídas)
 * [Tecnologias Usadas](#Tecnologias-Usadas)
 * [Contribuição](#Contribuição)
 * [Autores](#Autores)
@@ -18,12 +17,10 @@
 
 
 
-## Etapas concluídas 
-
-
-
 
 ## Tecnologias Usadas
+
+
 
 
 
@@ -35,6 +32,18 @@
 
 
 ## Autores
+- **Cesar Henrique Soares**
+ - **Daniel de Oliveira Fonseca**
+ - **Maria Eduarda Silva Barbosa**
+ - **João Gabriel Alves**
+ - **Samuel Lopes Nazário**
+ - **Wallace Rodrigues de Oliveira**
+ - **Bruno Henrique Lopes Golçaves**
+
+
+
+
+
 
 
 
