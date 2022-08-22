@@ -56,4 +56,4 @@ Este projeto está licenciado sob a Licença MIT, consulte o arquivo [LICENSE.md
 
 ## Agradecimentos  
 
-Agradecemos a todos os integrantes do grupo que se uniram para juntar esforços para a execução deste trabalho, agradecemos também a professora Edyene por todo o suporte dado durante o período do projeto, gratidão as pessoas que com maior experiência no mercado puderam e se disponibilizaram para ajudar o grupo nesta importante caminhada.
+Vai tomar no cu samuel
