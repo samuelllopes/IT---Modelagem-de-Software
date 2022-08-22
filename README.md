@@ -16,6 +16,16 @@ Nosso Projeto tem como principal objetivo o desenvolvimento de um software de IT
 
 ## Requisitos
 
+- 
+- 
+-
+-
+-
+-
+
+
+
+
 
 ## Tecnologias Usadas
 
