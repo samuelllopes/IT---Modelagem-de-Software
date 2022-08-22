@@ -25,14 +25,8 @@ Nosso Projeto tem como principal objetivo o desenvolvimento de um software de IT
 
 
 
-
-
 ## Tecnologias Usadas
 
-
-
-
-## Contribuição
 
 
 
@@ -52,7 +46,6 @@ Nosso Projeto tem como principal objetivo o desenvolvimento de um software de IT
 
 ## Licença
 Este projeto está licenciado sob a Licença MIT, consulte o arquivo [LICENSE.md](https://github.com/samuelllopes/Projeto-Fix-IT/blob/main/LICENSE) para mais detalhes.
-
 
 
 
