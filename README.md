@@ -9,24 +9,12 @@ Nosso Projeto tem como principal objetivo o desenvolvimento de um software de IT
 * [Sobre o Projeto](#Sobre-o-Projeto) 
 * [Índice/Sumário](#Índice-/-Sumário)
 * [Tecnologias Usadas](#Tecnologias-Usadas)
-* [Contribuição](#Contribuição)
 * [Autores](#Autores)
 * [Licença](#Licença)
 * [Agradecimentos](#Agradecimentos)
 
-## Requisitos
-
-- 
-- 
--
--
--
--
-
-
 
 ## Tecnologias Usadas
-
 
 
 
