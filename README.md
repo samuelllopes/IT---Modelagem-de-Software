@@ -2,7 +2,7 @@
 
 ## Sobre o Projeto
 
-Nosso Projeto tem como principal objetivo o desenvolvimento de um software de IT para a empresa do nosso cliente, buscando a otimização de tempo no atendimento de chamados dos clientes sobre proplemas tecnicos, oferecendo um meio seguro e controlado para armazenamento de informações e protocolos de chamado e atuando nos setores que possam resolver um problema, emissão, envio e monitoramento de protocolos, oferecendo assim um maior conforto ao cliente.
+Nosso Projeto tem como principal objetivo o desenvolvimento de um software de IT para a empresa do nosso cliente, buscando a otimização de tempo no atendimento de chamados dos fucionários sobre proplemas técnicos, oferecendo um meio seguro e controlado para armazenar as informações e protocolos de chamado  atuando nos setores que possam resolver o problema, emissão, envio e monitoramento de protocolos, oferecendo assim um maior conforto ao fucionário.
 
 
 ## Índice/Sumário
