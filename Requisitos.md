@@ -1,6 +1,6 @@
 # Requisitos do Software
 
-<img src= "https://i.ytimg.com/vi/V74qIKo-OqI/maxresdefault.jpg" width="1500px" /> 
+<img src= "https://i.ytimg.com/vi/V74qIKo-OqI/maxresdefault.jpg" width="1300px" /> 
 
 
 ## Requisitos Funcionais 
