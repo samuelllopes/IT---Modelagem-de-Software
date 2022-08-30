@@ -1,6 +1,6 @@
 # Requisitos do Software
 
- ![Banner Requistos do Software]<img src= "https://i.ytimg.com/vi/V74qIKo-OqI/maxresdefault.jpg" width="200px" /> 
+<img src= "https://i.ytimg.com/vi/V74qIKo-OqI/maxresdefault.jpg" width="1500px" /> 
 
 
 ## Requisitos Funcionais 
