@@ -14,8 +14,8 @@
 
 # Requisitos Não - Funcionais 
 
-[RFN001] 
-[RFN002] 
-[RFN003]
+* [RFN001] 
+* [RFN002] 
+* [RFN003]
 
 
