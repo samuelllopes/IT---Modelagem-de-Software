@@ -23,7 +23,7 @@ Nosso Projeto tem como principal objetivo o desenvolvimento de um software de IT
 
 
 
-<img src="https://files.tecnoblog.net/wp-content/uploads/2016/07/word-700x438.jpg" width="20px" /> [Word](https://www.microsoft.com/pt-br/microsoft-365)
+<img src="https://i.ytimg.com/vi/gsYPg0CZs3I/hqdefault.jpg" width="20px" /> [Word](https://www.microsoft.com/pt-br/microsoft-365)
 
 <img src="https://user-images.githubusercontent.com/103187575/172058744-cfce09c5-cec0-4986-938f-149e967017c3.png" width="20px" /> [PowerPoint](https://www.microsoft.com/pt-br/microsoft-365)
 
