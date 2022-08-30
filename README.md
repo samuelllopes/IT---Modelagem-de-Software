@@ -1,7 +1,7 @@
 # PROJETO FIX IT
 
-![Banner FIX IT ](https://user-images.githubusercontent.com/103187575/187563232-0f54f174-7d51-4fdf-98f3-580b6c43c2bf.png)
 
+<img src="https://o.remove.bg/downloads/9e42619d-f645-4a01-b42b-ecba736dd22a/Banner_Paisagem_Moderno_Azul_Campanha_Eleitoral_de_Candidato-removebg-preview.png" width="800px" />
 
 
 ## Sobre o Projeto
