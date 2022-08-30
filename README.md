@@ -1,6 +1,7 @@
 # PROJETO FIX IT
 
-![Banner FIX IT](https://user-images.githubusercontent.com/103187575/187562987-8ba97513-2c71-420a-b33b-975214441a17.png)
+< img scr ="https://user-images.githubusercontent.com/103187575/187563146-de5aa096-661c-4221-9fb0-0ad4f9873c36.png"
+
 
 
 ## Sobre o Projeto
