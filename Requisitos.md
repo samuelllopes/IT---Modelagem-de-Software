@@ -1,5 +1,7 @@
 # Requisitos do Software
 
+ ![Banner para Linkedin capa de perfil  para programador  (1)](https://i.ytimg.com/vi/V74qIKo-OqI/maxresdefault.jpg)
+
 
 ## Requisitos Funcionais 
 
