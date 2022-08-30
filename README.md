@@ -9,7 +9,7 @@ Nosso Projeto tem como principal objetivo o desenvolvimento de um software de IT
 
 * [Sobre o Projeto](#Sobre-o-Projeto) 
 * [Índice/Sumário](#Índice-/-Sumário)
-* [Etapas do Projeto](#Etapas do Projeto)
+* [Etapas do Projeto](#Etapas-do-Projeto)
 * [Documentação](#Documentação)
 * [Tecnologias Usadas](#Tecnologias-Usadas)
 * [Autores](#Autores)
