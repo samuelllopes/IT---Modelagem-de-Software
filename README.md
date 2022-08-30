@@ -19,7 +19,7 @@ Nosso Projeto tem como principal objetivo o desenvolvimento de um software de IT
 
 
 
-<img src=https://cdn-icons-png.flaticon.com/512/2875/2875411.png" width="20px" /> [Documento Software FIX IT.docx](https://github.com/samuelllopes/Projeto-Fix-IT/files/9457169/Documento.Software.FIX.IT.docx)
+<img src="https://cdn-icons-png.flaticon.com/512/2875/2875411.png" width="20px" /> [Documento Software FIX IT.docx](https://github.com/samuelllopes/Projeto-Fix-IT/files/9457169/Documento.Software.FIX.IT.docx)
 
 
 ## Tecnologias Usadas
