@@ -19,6 +19,9 @@ Nosso Projeto tem como principal objetivo o desenvolvimento de um software de IT
 
 
 
+[Documento Software FIX IT.docx](https://github.com/samuelllopes/Projeto-Fix-IT/files/9457169/Documento.Software.FIX.IT.docx)
+
+
 ## Tecnologias Usadas
 
 
