@@ -1,6 +1,6 @@
-## Requisitos do Software
+# Requisitos do Software
 
-# Requisitos Funcionais 
+## Requisitos Funcionais 
 
 * [RF001] Cliente pode consultar dados sobre chamados.
 * [RF002] Software realiza a abertura de novos chamados. 
@@ -12,7 +12,7 @@
 * [RF009] O software deve encerrar o chamado e enviar as informações para o banco de dados.
 
 
-# Requisitos Não - Funcionais 
+## Requisitos Não - Funcionais 
 
 * [RFN001] 
 * [RFN002] 
