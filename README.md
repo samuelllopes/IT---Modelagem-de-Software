@@ -6,14 +6,21 @@ Nosso Projeto tem como principal objetivo o desenvolvimento de um software de IT
 
 
 ## Índice/Sumário
+
 * [Sobre o Projeto](#Sobre-o-Projeto) 
 * [Índice/Sumário](#Índice-/-Sumário)
+* [Etapas do Projeto](#Etapas do Projeto)
 * [Documentação](#Documentação)
 * [Tecnologias Usadas](#Tecnologias-Usadas)
 * [Autores](#Autores)
 * [Licença](#Licença)
-* [Requisitos.md](Requisitos.md)
 * [Agradecimentos](#Agradecimentos)
+
+
+
+# Etapas do Projeto
+
+* [Requisitos.md](Requisitos.md)
 
 
 
