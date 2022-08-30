@@ -12,7 +12,9 @@ Nosso Projeto tem como principal objetivo o desenvolvimento de um software de IT
 * [Tecnologias Usadas](#Tecnologias-Usadas)
 * [Autores](#Autores)
 * [Licença](#Licença)
+* [Requisitos.md](#Requisitos.md)
 * [Agradecimentos](#Agradecimentos)
+
 
 
 ## Documentação
