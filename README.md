@@ -1,7 +1,11 @@
 # PROJETO FIX IT
 
+<div align="center">
 
-<img src="https://o.remove.bg/downloads/9e42619d-f645-4a01-b42b-ecba736dd22a/Banner_Paisagem_Moderno_Azul_Campanha_Eleitoral_de_Candidato-removebg-preview.png" width="800px" />
+img src=" width="800px" /
+
+/div> 
+
 
 
 ## Sobre o Projeto
