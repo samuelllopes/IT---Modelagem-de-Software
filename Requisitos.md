@@ -13,7 +13,7 @@
 * [RF006] Software emite relatorio de controle de chamados por área / por tipo de chamado.
 * [RF007] O Software propõe fazer um relatorio definido por padrões.
 * [RF009] O software deve encerrar o chamado e enviar as informações para o banco de dados.
-* [RF010] O Software deve preencher o login e senha 
+* [RF010] O Software deve pedir login e senha para logout
 
 ## Requisitos Não - Funcionais 
 
