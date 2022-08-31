@@ -1,9 +1,8 @@
 # PROJETO FIX IT
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/103187575/187564198-b9cbab96-354f-42b9-a775-bd77ceb0bb5c.png" width="800px" /> 
+<img src="https://user-images.githubusercontent.com/103187575/187564198-b9cbab96-354f-42b9-a775-bd77ceb0bb5c.png" width="700px" /> 
 </div> 
-
 
 
 ## Sobre o Projeto
