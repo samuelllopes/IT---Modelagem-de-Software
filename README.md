@@ -51,7 +51,6 @@ Nosso Projeto tem como principal objetivo o desenvolvimento de um software de IT
 ## Autores
 
 - **Cesar Henrique Soares**
- - **Daniel de Oliveira Fonseca**
  - **Maria Eduarda Silva Barbosa**
  - **João Gabriel Alves**
  - **Samuel Lopes Nazário**
