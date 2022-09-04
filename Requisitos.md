@@ -17,8 +17,8 @@
 
 ## Requisitos Não - Funcionais 
 
-* [RFN001] 
-* [RFN002] 
-* [RFN003]
+* [RFN001] O Software deve permitir a abertura de novos chamados somente com o usuário logado.
+* [RFN002] O Software deve emitir relatórios baseado no banco de dados de chamados finalizados.
+* [RFN003]O Software deve gastar apenas 5 segundos para realizar a abertura. 
 
 
