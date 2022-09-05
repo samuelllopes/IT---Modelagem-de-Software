@@ -5,17 +5,17 @@
 
 ## Requisitos Funcionais 
 
-* [RF001] 
-* [RF002]
-* [RF003]
-* [RF004]
-* [RF005]
+* [RF001] O Software deve emitir relatórios sobre chamados já finalizados;
+* [RF002] O Software deve realizar abertura de novos chamados;
+* [RF003] O Software deve filtrar chamado por palavras-chave e natureza do problema;
+* [RF004] O Software deve identificar o solicitante;
+* [RF005] O Software deve atualizar o cliente sobre o status do chamado.
 
 
 ## Requisitos Não - Funcionais 
 
-* [RFN001] O Software deve permitir a abertura de novos chamados somente com o usuário logado.
-* [RFN002] O Software deve emitir relatórios baseado no banco de dados de chamados finalizados.
+* [RFN001] O Software deve permitir a abertura de novos chamados somente com o usuário logado;
+* [RFN002] O Software deve emitir relatórios baseado no banco de dados de chamados finalizados;
 * [RFN003]O Software deve gastar apenas 5 segundos para realizar a abertura. 
 
 
