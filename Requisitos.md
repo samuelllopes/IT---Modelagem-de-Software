@@ -19,6 +19,7 @@
 
 * [RFN001] O Software deve permitir a abertura de novos chamados somente com o usuário logado;
 * [RFN002] O Software deve emitir relatórios baseado no banco de dados de chamados finalizados;
-* [RFN003]O Software deve gastar apenas 5 segundos para realizar a abertura. 
-
+* [RFN003] O Software deve gastar apenas 5 segundos para realizar a abertura;
+* [RFN004] O Software deve ter um processamento muito rapido em todas as maquinas;
+* [RFN005] O Software deve ter uma cor puxada para a cor da logo da empresa;
 
