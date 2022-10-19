@@ -46,8 +46,9 @@ Nosso Projeto tem como principal objetivo o desenvolvimento de um software de IT
 
 <img src="https://user-images.githubusercontent.com/103187575/172058744-cfce09c5-cec0-4986-938f-149e967017c3.png" width="20px" /> [PowerPoint](https://www.microsoft.com/pt-br/microsoft-365)
 
-<img src="https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_116f10f6a6cf357ca498acf6fd3b618e/visual-paradigm-online-diagrams.png" width="20px" /> [VisualParadigm](https://online.visual-paradigm.com/pt/)
+<img src="https://l3software.com.br/wp-content/uploads/2018/05/Visual-paradigm-modeler-logo.jpg" width="20px" /> [VisualParadigm](https://online.visual-paradigm.com/pt/)
 
+<img src="https://i.pinimg.com/736x/74/6d/77/746d77ef9b49afd5ec2306d39592d01e.jpg" width="20px" /> [Canvas](https://www.canva.com/)
 
 
 
