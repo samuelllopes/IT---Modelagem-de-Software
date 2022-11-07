@@ -31,7 +31,7 @@ Nosso Projeto tem como principal objetivo o desenvolvimento de um software de IT
 * [diagramadeclassedeuso.md](diagramadeclassedeuso.md)
 * [diagramadesequencia.md](diagramadesequencia.md)
 * [diagramadeatividade.md](diagramadeatividade.md)
-
+* [bancodedados.md](bancodedados.md)
 
 ## Tecnologias Usadas
 
