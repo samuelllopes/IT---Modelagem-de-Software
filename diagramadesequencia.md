@@ -1,6 +1,7 @@
 # Diagrama de Sequencia: 
 
 
+![Diagrama de Sequencia ](https://user-images.githubusercontent.com/103187575/200431403-906c754b-2e35-4d55-9122-f50ea4584dc9.png)
 
 
 
