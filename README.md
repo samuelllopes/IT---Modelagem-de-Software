@@ -50,7 +50,7 @@ Nosso Projeto tem como principal objetivo o desenvolvimento de um software de IT
 
 <img src="https://i.pinimg.com/736x/74/6d/77/746d77ef9b49afd5ec2306d39592d01e.jpg" width="20px" /> [Canvas](https://www.canva.com/)
 
-
+<img src="  "                            width="20px" /> [Lucidchart](https://www.lucidchart.com/pages/pt/landing?utm_source=google&utm_medium=cpc&utm_campaign=_chart_pt_allcountries_mixed_search_brand_exact_&km_CPC_CampaignId=1500131167&km_CPC_AdGroupID=59412157138&km_CPC_Keyword=lucidchart&km_CPC_MatchType=e&km_CPC_ExtensionID=&km_CPC_Network=g&km_CPC_AdPosition=&km_CPC_Creative=294337318298&km_CPC_TargetID=kwd-33511936169&km_CPC_Country=1031483&km_CPC_Device=c&km_CPC_placement=&km_CPC_target=&gclid=CjwKCAiA68ebBhB-EiwALVC-NqAW1ER4z0u5YfFAiyQkagdluLafT6Yim66zTXEndTGUL4ZsOuWeSBoCXnoQAvD_BwE)
 
 
 
