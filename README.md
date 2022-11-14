@@ -23,7 +23,7 @@ Nosso Projeto tem como principal objetivo o desenvolvimento de um software de IT
 
 
 
-# Etapas do Projeto
+## Etapas do Projeto
 
 * [Requisitos.md](Requisitos.md)
 * [Prototipo.md](Prototipo.md)
@@ -34,7 +34,7 @@ Nosso Projeto tem como principal objetivo o desenvolvimento de um software de IT
 * [bancodedados.md](bancodedados.md)
 
 
-# Apresentação Final 
+## Apresentação Final 
 
 
 
