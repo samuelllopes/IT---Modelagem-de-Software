@@ -58,12 +58,11 @@ LINK PARA ACESSO AOS SLIDES: [Projeto Fix IT.pdf](https://github.com/samuelllope
 ## Autores
 
  - **Samuel Lopes Nazário**
- - **César Henrique Soares Marques**
- - **Maria Eduarda Silva Barbosa**
- - **João Gabriel Alves**
  - **Wallace Rodrigues de Oliveira**
+ - **César Henrique Soares Marques**
+ - **João Gabriel Alves**
  - **Bruno Henrique Lopes Gonçalves**
-
+ - **Maria Eduarda Silva Barbosa**
 
 
 ## Licença
