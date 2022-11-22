@@ -1,4 +1,5 @@
-# Diagrama de Classe
+# Diagrama de Classe de Uso
+
 
 ![classedeuso](https://user-images.githubusercontent.com/103187575/203287302-d3007f14-1978-43f5-a19f-fe5bcbfb5d0e.JPG)
 
