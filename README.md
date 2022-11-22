@@ -36,7 +36,7 @@ Nosso Projeto tem como principal objetivo o desenvolvimento de um software de IT
 
 ## Apresentação Final 
 
-LINK PARA ACESSO AOS SLIDES: [Projeto Fix IT.pdf](https://github.com/samuelllopes/Projeto-Fix-IT/files/10057199/Projeto.Fix.IT.pdf)
+LINK PARA ACESSO AOS SLIDES: [Projeto Fix IT (1).pdf](https://github.com/samuelllopes/Projeto-Fix-IT/files/10066376/Projeto.Fix.IT.1.pdf)
 
 
 ## Tecnologias Usadas
